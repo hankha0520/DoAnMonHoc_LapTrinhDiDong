@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ViewAllActivity"
+    android:background="?colorOnPrimary">
+
+    <me.gujun.android.taggroup.TagGroup
+        android:padding="8dp"
+        android:id="@+id/tag_group"
+        app:atg_borderColor="?colorPrimary"
+        app:atg_textColor="?colorPrimary"
+        style="@style/TagGroup"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_viewall"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

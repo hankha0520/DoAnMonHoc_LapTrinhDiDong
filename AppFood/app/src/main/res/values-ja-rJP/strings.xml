@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question" translatable="false">今日は何を作りたいですか？</string>
+    <string name="app_name">調理マニュアル</string>
+    <string name="category">" 食品のカテゴリー"</string>
+    <string name="favourite_food">" 好きな食べ物"</string>
+    <string name="history">履歴を見る</string>
+    <string name="viewall">すべてを見る</string>
+    <string name="search">探す</string>
+    <string name="descrip">" 説明する"</string>
+    <string name="time">時間</string>
+    <string name="material">材料</string>
+    <string name="making">作る</string>
+    <string name="result">調査結果:</string>
+    <string name="slogan">食べたいならキッチンへ</string>
+    <string name="history_title">履歴を見る</string>
+    <string name="change_theme">設定パネルからオプションを選択して、アプリの色を設定します</string>
+    <string name="favourite">" お気に入りの料理に追加して、次回より速く表示できるようにします"</string>
+    <string name="chronometer">" あなたがあなたの食べ物を過度に調理しないようにタイマー"</string>
+    <string name="skip">" スキップ"</string>
+    <string name="next">次</string>
+    <string name="start">" 始めましょう"</string>
+    <string name="setting">設定</string>
+</resources>

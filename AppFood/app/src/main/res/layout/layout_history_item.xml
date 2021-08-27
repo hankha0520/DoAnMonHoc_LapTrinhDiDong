@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="8dp"
+    android:layout_margin="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_marginLeft="20dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/imgHis"
+            android:src="@drawable/sinhto"/>
+
+        <TextView android:id="@+id/txtnameHis"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="?colorPrimaryVariant"
+            android:gravity="center_vertical"
+            android:fontFamily="@font/baloo"
+            android:text="Kha"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textSize="22sp"/>
+
+    </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>

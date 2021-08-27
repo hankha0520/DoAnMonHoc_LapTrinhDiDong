@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question" translatable="false">오늘 뭘 요리하고 싶니?</string>
+    <string name="app_name">요리 매뉴얼</string>
+    <string name="category">음식의 범주</string>
+    <string name="favourite_food">가장 좋아하는 음식</string>
+    <string name="history">역사보기</string>
+    <string name="viewall">모두보기</string>
+    <string name="search">검색</string>
+    <string name="descrip">설명</string>
+    <string name="time">시각</string>
+    <string name="material">성분</string>
+    <string name="making">만들기</string>
+    <string name="result">" 결과:"</string>
+    <string name="slogan">먹고 싶다면 부엌으로 굴러</string>
+    <string name="history_title">" 역사보기"</string>
+    <string name="change_theme">" 설정 패널에서 옵션을 선택하여 앱의 색상을 설정합니다"</string>
+    <string name="favourite">"다음에 더 빨리 볼 수 있도록 좋아하는 요리에 추가 "</string>
+    <string name="chronometer">음식을 너무 익히지 않도록 타이머</string>
+    <string name="skip">" 건너 뛰기"</string>
+    <string name="next">다음</string>
+    <string name="start">시작하다</string>
+    <string name="setting">환경</string>
+</resources>

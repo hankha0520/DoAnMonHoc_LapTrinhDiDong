@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppFood</string>
+    <string name="question" translatable="false">What do you want to cook today?</string>
+    <string name="category">CATEGORY OF FOOD</string>
+    <string name="favourite_food">" FAVORITE FOOD"</string>
+    <string name="history">HISTORY</string>
+    <string name="viewall">View All</string>
+    <string name="search">Search</string>
+    <string name="descrip">Description</string>
+    <string name="time">Time</string>
+    <string name="material">Ingredients</string>
+    <string name="making">Making</string>
+    <string name="result">Findings:</string>
+    <string name="slogan">If you want to eat, roll into the kitchen</string>
+    <string name="history_title">History</string>
+    <string name="change_theme">Set the color of your app by selecting an option from the settings panel</string>
+    <string name="favourite">Add to your favorite dishes for faster viewing next time</string>
+    <string name="chronometer">Timer so you don\'t overcook your food</string>
+    <string name="skip">SKIP</string>
+    <string name="next">NEXT</string>
+    <string name="start">GET STARTED</string>
+    <string name="setting">Setting</string>
+</resources>

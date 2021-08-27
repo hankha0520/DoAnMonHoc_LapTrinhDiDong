@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">烹饪手册</string>
+    <string name="question">你今天想煮什么？</string>
+    <string name="category">" 食品类别"</string>
+    <string name="favourite_food">最喜欢的食物</string>
+    <string name="history">" 查看历史"</string>
+    <string name="viewall">查看全部</string>
+    <string name="search">搜索</string>
+    <string name="descrip">描述</string>
+    <string name="time">时间</string>
+    <string name="material">" 原料"</string>
+    <string name="making">制作</string>
+    <string name="result">发现:</string>
+    <string name="slogan">想吃就滚进厨房</string>
+    <string name="history_title">" 查看历史记录"</string>
+    <string name="change_theme">" 通过从设置面板中选择一个选项来设置应用程序的颜色"</string>
+    <string name="favourite">" 添加到您最喜欢的菜肴以便下次更快地查看"</string>
+    <string name="chronometer">" 计时器，这样你就不会把食物煮过头了"</string>
+    <string name="skip">跳过</string>
+    <string name="next">下一个</string>
+    <string name="start">" 开始"</string>
+    <string name="setting">环境</string>
+</resources>

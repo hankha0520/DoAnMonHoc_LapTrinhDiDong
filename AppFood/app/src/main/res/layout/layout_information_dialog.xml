@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_centerVertical="true">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="350dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/information"
+                android:background="@color/white"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="serif"
+                android:text="ĐỒ ÁN MÔN HỌC - LTDĐ"
+                android:textAlignment="center"
+                android:textSize="16sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="serif"
+                android:textStyle="bold|italic"
+                android:text="Cẩm nang nấu ăn (Local)"
+                android:textAlignment="center"
+                android:textSize="20sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="serif"
+                android:textStyle=""
+                android:text="Giáo viên hướng dẫn"
+                android:padding="6dp"
+                android:textSize="16sp"
+                android:textColor="?colorPrimary"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <pl.droidsonroids.gif.GifImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_margin="10dp"
+                    android:src="@drawable/buttoninfo"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:fontFamily="serif"
+                    android:textStyle="bold"
+                    android:text="Th.s Vũ Đình Ái"
+                    android:padding="10dp"
+                    android:textSize="20sp"
+                    android:layout_marginTop="10dp"
+                    android:textAlignment="center"/>
+            </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="serif"
+                android:textStyle=""
+                android:text="Sinh viên thực hiện"
+                android:padding="6dp"
+                android:textSize="16sp"
+                android:textColor="?colorPrimary"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <pl.droidsonroids.gif.GifImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:layout_margin="10dp"
+                    android:src="@drawable/buttoninfo"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:fontFamily="serif"
+                    android:textStyle="bold"
+                    android:text="2001181095\nChu Nguyễn Gia Hân"
+                    android:padding="10dp"
+                    android:textSize="18sp"
+                    android:layout_marginTop="10dp"
+                    android:textAlignment="center"/>
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <pl.droidsonroids.gif.GifImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:layout_margin="8dp"
+                    android:src="@drawable/buttoninfo"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:fontFamily="serif"
+                    android:textStyle="bold"
+                    android:text="2001180120\nPhạm Mộng Kha"
+                    android:padding="10dp"
+                    android:textSize="18sp"
+                    android:layout_marginTop="8dp"
+                    android:textAlignment="center"/>
+            </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="serif"
+                android:textStyle="italic"
+                android:text="Cám ơn đã xem !"
+                android:padding="6dp"
+                android:textSize="18sp"
+                android:textColor="?colorPrimary"
+                android:textAlignment="center"/>
+            <Button
+                android:id="@+id/btn_OK"
+                android:layout_width="200dp"
+                android:layout_height="50dp"
+                android:text="OK"
+                android:layout_gravity="center_horizontal"
+                android:backgroundTint="?colorPrimary"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/white"
+                android:layout_marginTop="10dp"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

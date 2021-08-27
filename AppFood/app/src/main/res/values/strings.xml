@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Cẩm nang nấu ăn</string>
+    <string name="question">Bạn muốn nấu gì hôm nay?</string>
+    <string name="category">THỂ LOẠI MÓN ĂN</string>
+    <string name="favourite_food">MÓN ĂN YÊU THÍCH</string>
+
+    <string name="viewall">Xem tất cả</string>
+    <string name="descrip">Mô tả</string>
+    <string name="time">Thời gian</string>
+    <string name="material">Nguyên liệu</string>
+    <string name="making">Cách làm</string>
+    <string name="result">Kết quả tìm được:</string>
+    <string name="slogan">Muốn ăn thì lăn vào bếp</string>
+    <string name="prefs_theme_key" translatable="false">theme</string>
+
+    <string name="channel_name" translatable="false">Chanel1</string>
+    <string name="channel_description" translatable="false">This is Chanel1</string>
+    <string name="history_title">Lịch sử xem</string>
+    <string name="change_theme">Đặt màu cho ứng dụng của bạn bằng cách chọn tùy chọn từ bảng cài đặt</string>
+    <string name="favourite">Thêm vào các món ăn yêu thích của bạn để xem nhanh hơn vào lần sau</string>
+    <string name="chronometer">Hẹn giờ để bạn không nấu quá chín thức ăn</string>
+
+    <string name="setting">Cài đặt</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="history">Lịch sử xem</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="skip">BỎ QUA</string>
+    <string name="next">TIẾP THEO</string>
+    <string name="start">BẮT ĐẦU</string>
+
+</resources>
