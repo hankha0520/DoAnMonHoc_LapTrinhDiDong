@@ -14,4 +14,4 @@ Thành viên
 ![image](https://user-images.githubusercontent.com/81396691/131083941-564e587e-34bb-42a6-90f4-4d992f02f44d.png)
 #### Giao diện màn hình chính
 ![image](https://user-images.githubusercontent.com/81396691/131084114-a27255b6-2ad9-477d-92b8-16766e6f1338.png)
-![image](https://user-images.githubusercontent.com/81396691/131084127-87ebefb8-ba24-4960-905f-c92e12d4edc3.png)
+# ![image](https://user-images.githubusercontent.com/81396691/131084127-87ebefb8-ba24-4960-905f-c92e12d4edc3.png)
