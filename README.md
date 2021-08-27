@@ -15,3 +15,15 @@ Thành viên
 #### Giao diện màn hình chính
 ![image](https://user-images.githubusercontent.com/81396691/131084114-a27255b6-2ad9-477d-92b8-16766e6f1338.png)
 # ![image](https://user-images.githubusercontent.com/81396691/131084127-87ebefb8-ba24-4960-905f-c92e12d4edc3.png)
+#### Giao diện màn hình chi tiết
+![image](https://user-images.githubusercontent.com/81396691/131084557-da687933-7cba-4571-b0d9-e96e1e0644bc.png)
+# ![image](https://user-images.githubusercontent.com/81396691/131084580-e184bb4c-b5a6-4cbd-bfe1-8d5fa0d7eb0f.png)
+
+![image](https://user-images.githubusercontent.com/81396691/131084610-575cc687-dc04-4816-883d-b42f9959a2f5.png)
+![image](https://user-images.githubusercontent.com/81396691/131084739-af133f8f-afd3-4a4c-b917-7e53b98778bc.png)
+
+
+![image](https://user-images.githubusercontent.com/81396691/131084703-d8ebdd05-4bf7-4fdd-97f2-953a8e797c43.png)
+
+![image](https://user-images.githubusercontent.com/81396691/131084739-af133f8f-afd3-4a4c-b917-7e53b98778bc.png)
+
